@@ -11,10 +11,23 @@
 
 - **🔧 Stack**: Spring Boot · JSP · OracleDB · Python  
 - **💡 기능**: AI 생육 예측 · 생육 다이어리 & 캘린더 · 챗봇 · Toss 구독 결제 · 관리자 페이지  
-- **📂 GitHub**: [Project_Team_Sikku](https://github.com/likewhat9901/Project_Team_Sikku.git)  
-- **📽 시연 / 소개**: [Notion 페이지](https://notion.so/abc)  
-- **🌐 배포 링크**: [https://example.com](https://example.com)
+- **📂 GitHub**: [Project_Team_Sikku](https://github.com/likewhat9901/Project_Team_Sikku.git)
+- **📽 시연 / 소개**: [Notion 페이지](https://www.notion.so/25805c9cb68b8168ab57d008ac19af09?source=copy_link)  [시연영상](https://youtu.be/7rLZxUaf8rA?si=DDNDa0m-uDplenNP)
 
+---
+
+## 🌾 농업 데이터 통합 관리 플랫폼 (Flask)
+
+> **날씨·가격·검색 트렌드·성장 예측·지도 서비스를 한 화면에 통합** (1주일 프로젝트)
+
+- **🔧 Stack**: Flask · Pandas · Scikit-learn(SVR) · HTML · CSS · JavaScript · Chart.js · Leaflet.js  
+- **💡 기능**:  
+  - 대시보드 (실시간 날씨, 가격, 검색 비율, 환경 데이터)  
+  - 지도 서비스 (농업 교육기관, 꽃집 위치/검색, 클러스터링)  
+  - 성장 예측 (SVR 기반, 높이·열매 수 추세 예측)  
+  - 병해충 진단 (CNN 이미지 분류 기반)  
+- **📂 GitHub**: [Project Team FarmDashboard](https://github.com/likewhat9901/Project_Team_FarmDashboard.git)
+- **📽 시연 / 소개**: [Notion 페이지](https://www.notion.so/Flask-25e05c9cb68b80dd9880e283688e6152?source=copy_link)
 
 <!-- 아래는 이후 프로젝트 추가 예정 -->
 
