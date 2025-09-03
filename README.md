@@ -47,7 +47,7 @@
 ## 📌 Contact
 
 - Email: parkko123@naver.com  
-- Notion 포트폴리오: [https://notion.so/portfolio]([https://notion.so/yourportfolio](https://thorn-trip-9a5.notion.site/25805c9cb68b803aaf88eb209f6a7949?pvs=143))
+- Notion 포트폴리오: [https://notion.so/portfolio]([https://notion.so/yourportfolio](https://thorn-trip-9a5.notion.site/25805c9cb68b8168ab57d008ac19af09?source=copy_link)
 
 ---
 
