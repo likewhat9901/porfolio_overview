@@ -10,7 +10,7 @@
 > **도시형 소규모 재배자를 위한 생육 관리 & 커뮤니티 플랫폼**
 
 - **🔧 Stack**: Spring Boot · JSP · OracleDB · Python
-- 개발기간 : 2025.07.30 - 08.27 
+- **개발기간** : 2025.07.30 - 08.27 
 - **💡 기능**: AI 생육 예측 · 생육 다이어리 & 캘린더 · 챗봇 · Toss 구독 결제 · 관리자 페이지  
 - **📂 GitHub**: [Project_Team_Sikku](https://github.com/likewhat9901/Project_Team_Sikku.git)
 - **📽 시연 / 소개**: [Notion 페이지](https://www.notion.so/25805c9cb68b8168ab57d008ac19af09?source=copy_link)  [시연영상](https://youtu.be/7rLZxUaf8rA?si=DDNDa0m-uDplenNP)
@@ -22,7 +22,7 @@
 > **날씨·가격·검색 트렌드·성장 예측·지도 서비스를 한 화면에 통합** (1주일 프로젝트)
 
 - **🔧 Stack**: Flask · Pandas · Scikit-learn(SVR) · HTML · CSS · JavaScript · Chart.js · Leaflet.js
-- 개발기간 : 2025.06.23 - 06.27 
+- **개발기간** : 2025.06.23 - 06.27 
 - **💡 기능**:  
   - 대시보드 (실시간 날씨, 가격, 검색 비율, 환경 데이터)  
   - 지도 서비스 (농업 교육기관, 꽃집 위치/검색, 클러스터링)  
@@ -36,7 +36,7 @@
 ## 🏦 JAVA 콘솔 기반 계좌관리 프로그램
 
 - **🔧 Stack**: Java, JDBC
-- 개발기간 : 2025.04.07 - 04.14
+- **개발기간** : 2025.04.07 - 04.14
 - **💡 기능**:
   - Console에서 계좌 생성 및 삭제, 정보를 확인 가능
   - 일반 계좌, 저축 계좌, 대출 계좌 등 3가지 계좌 유형을 구현
