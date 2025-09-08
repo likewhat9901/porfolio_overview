@@ -29,21 +29,15 @@
 - **📂 GitHub**: [Project Team FarmDashboard](https://github.com/likewhat9901/Project_Team_FarmDashboard.git)
 - **📽 시연 / 소개**: [Notion 페이지](https://www.notion.so/Flask-25e05c9cb68b80dd9880e283688e6152?source=copy_link)
 
-## 🏦JavaConsoleBank
+## 🏦 JAVA 콘솔 기반 계좌관리 프로그램
 
-> 계좌관리 프로그램 (개인 프로젝트)
->
-> - 개발기간 : 2025.04.07 - 04.14
-> - 핵심 역할 : Java를 활용하여 계좌 생성 및 삭제, 정보를 확인할 수 있는 프로그램 
-> - Language : Java
->
->> 프로젝트 상세 설명(Back-end)
->> 1. Java 기반 은행 계좌 관리 프로그램을 개발하여 일반 계좌, 저축 계좌, 대출 계좌 등 3가지 계좌 유형을 구현했습니다.
->> 2. **객체지향 설계(OOP)**를 적용해 계좌별 클래스 상속 구조를 설계하고, 공통 기능과 개별 기능을 명확히 분리했습니다.
->> 3. 계좌의 생성, 삭제, 잔액 확인, 입출금 관리 등 기본 기능을 지원하여 실제 은행 시스템과 유사한 사용성을 제공했습니다.
->> 4. JDBC와 DB 연동을 통해 계좌 정보를 영구적으로 저장·조회할 수 있도록 데이터베이스 기능을 통합했습니다.
->
-> - **📂 GitHub**: [Project Team FarmDashboard](https://github.com/likewhat9901/Project_Team_FarmDashboard.git)
+- 개발기간 : 2025.04.07 - 04.14
+- 핵심 역할 : Java를 활용하여 계좌 생성 및 삭제, 정보를 확인할 수 있는 프로그램 
+- Java 기반 은행 계좌 관리 프로그램을 개발하여 일반 계좌, 저축 계좌, 대출 계좌 등 3가지 계좌 유형을 구현했습니다.
+- **객체지향 설계(OOP)**를 적용해 계좌별 클래스 상속 구조를 설계하고, 공통 기능과 개별 기능을 명확히 분리했습니다.
+- 계좌의 생성, 삭제, 잔액 확인, 입출금 관리 등 기본 기능을 지원하여 실제 은행 시스템과 유사한 사용성을 제공했습니다.
+- JDBC와 DB 연동을 통해 계좌 정보를 영구적으로 저장·조회할 수 있도록 데이터베이스 기능을 통합했습니다.
+- **📂 GitHub**: [Project JavaConsoleBank](https://github.com/likewhat9901/JavaConsoleBankPC.git)
 
 <!-- 아래는 이후 프로젝트 추가 예정 -->
 
